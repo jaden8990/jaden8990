@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaden Calimlim (Den)</h1>
-<h3 align="center">I Want to be CEO someday, But for now I'm Interested in SQA</h3>
+<h3 align="center">I Want to be CEO someday, But for now I'm Interested in UI and SQA</h3>
 
 - 💬 What I like and hobbies **interested in business, photography,,. I enjoy sports like badminton and taekwondo.**
 
